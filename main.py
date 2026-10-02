@@ -1,1 +1,1 @@
-print("emilbek")
+print('nurba dog')
